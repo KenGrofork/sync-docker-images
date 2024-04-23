@@ -2,7 +2,7 @@ docker.io:
     tls-verify: false
     images:
       #青龙
-      whyour/qinglong: []
+      #whyour/qinglong: []
       #saobing面板
       saobing/saobing: []
       #阿东短信
